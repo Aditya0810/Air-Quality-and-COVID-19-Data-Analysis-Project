@@ -10,7 +10,7 @@ Recently, the world has undergone irreversible changes due to the unfortunate pa
 The datasets used are chosen for a reason as they clearly mention relevant and important metrics. Additionally, global data is preferred rather than localised national data, as it will provide a broader and more accurate answer to the real world problem. Localised data may include bias that are only relevant to that particular region. Here is a outline for some of the important columns in the datasets.
 
 **Air Quality Data**
-
+The data is based on country codes and different regions in that specific country. Additionally, data over recent few years is available on each region of a country (2010-2022). The variance of data in these time frames and certain trends is also explored in the data analysis. Key metrics include, pm10,pm25 and n02 concentration which are key constituents of poor air quality. Furthermore pm25 is the most dangerous and important particulate to control as it is responsible for adverse health effects in humans.
 
 **COVID-19 Data**
 
