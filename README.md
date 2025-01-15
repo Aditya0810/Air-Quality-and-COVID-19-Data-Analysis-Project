@@ -6,5 +6,12 @@ Recently, the world has undergone irreversible changes due to the unfortunate pa
   3. Comparision between the air qualities of different countries.
 
 **Background Information about the datasets used**
+
 The datasets used are chosen for a reason as they clearly mention relevant and important metrics. Additionally, global data is preferred rather than localised national data, as it will provide a broader and more accurate answer to the real world problem. Localised data may include bias that are only relevant to that particular region. Here is a outline for some of the important columns in the datasets.
+
+**Air Quality Data**
+
+
+**COVID-19 Data**
+
 
